@@ -1,0 +1,113 @@
+<footer>
+        <div class="talon">
+            <div class="desc-container">
+                <ul class="desc">
+                 <li> § Importe mínimo de financiación: 299 €.<span style="font-weight: bold;"> Ejemplo de financiación: 879 € en 24 cuotas. 23 cuotas de 36,63 € y una última cuota de 36,51 €. Intereses totales: 0 €. Coste total del crédito: 0 €. Precio de adquisición al contado: 879 €. Importe total adeudado: 879 €. Precio total a plazos: 879 €. TIN 0 %. TAE 0 %. Sistema de amortización francés.</span></li>
+                 <li> Oferta sujeta a la previa autorización de Banco Cetelem S.A.U. tras el estudio de la documentación aportada y la firma del contrato. Validez de la oferta desde el 17 de junio hasta el 29 de julio de 2021 ambos incluidos. Las condiciones de financiación para cualquier otro producto se pueden obtener aquí. Consulta los términos y condiciones.</li>
+                 <li>Las compras que se hagan en el Apple Store para Educación o para Empresas quedan excluidas de esta promoción.</li>
+                 <li>1. La oferta con pago mensual se basa en una financiación de 24 meses al <span class="TAE">0 % TAE</span>. Financiación ofrecida por Banco Cetelem S.A.U.</li>
+                 <li style="font-weight: bold;">Ejemplo de financiación: 809 € pagados en 24 meses al 0 % TIN y <span class="TAE">0 % TAE</span>. 23 cuotas de 33,71 € y una última cuota de 33,67 €. Intereses totales: 0 €. Coste total del crédito: 0 €. Precio de adquisición al contado: 809 €. Importe total adeudado: 809 €. Precio total a plazos: 809 €.</li>
+                 <li>Importe mínimo: 240 €. Sin comisión de formalización. Oferta sujeta a la previa autorización de Banco Cetelem S.A.U. tras el estudio de la documentación aportada y la firma del contrato. Consulta los términos y condiciones: apple.com/es/shop/browse/financing/terms.</li>
+                 <li>2. La oferta con pago mensual se basa en una financiación de 24 meses al <span class="TAE">0 % TAE</span>. Financiación ofrecida por Banco Cetelem S.A.U.</li>
+                 <li style="font-weight: bold;">Ejemplo de financiación: 1.159 € pagados en 24 meses al 0 % TIN y <span class="TAE">0 % TAE</span>. 23 cuotas de 48,29 € y una última cuota de 48,33 €. Intereses totales: 0 €. Coste total del crédito: 0 €. Precio de adquisición al contado: 1.159 €. Importe total adeudado: 1.159 €. Precio total a plazos: 1.159 €. </li>
+                 <li>Importe mínimo: 240 €. Sin comisión de formalización. Oferta sujeta a la previa autorización de Banco Cetelem S.A.U. tras el estudio de la documentación aportada y la firma del contrato. Consulta los términos y condiciones: apple.com/es/shop/browse/financing/terms. </li>
+                 <li> 3. No disponible en India.</li>
+                 <li> Apple TV+ por 4,99 €/mes después de la prueba gratuita. Una sola suscripción por cuenta compartida de En Familia. La oferta tiene validez durante 3 meses desde que se activa un dispositivo válido. Si no se cancela, la suscripción se renueva automáticamente. Sujeto a restricciones y otras condiciones.</li>
+                </ul>
+            </div>
+            <hr>
+            <div class="footer-tables">
+                <div class="tab1">
+                    <ul>
+                        <li style="font-weight: bold;">Ver y comprar</li>
+                        <li>Mac</li>
+                        <li>iPad</li>
+                        <li>iPhone</li>
+                        <li>Watch</li>
+                        <li>TV</li>
+                        <li>Music</li>
+                        <li>AirPods</li>
+                        <li>HomePod</li>
+                        <li>iPod touch</li>
+                        <li>AirTag</li>
+                        <li>Accesorios</li>
+                        <li>Tarjetas regalo</li>
+                    </ul> 
+                </div>
+                <div class="tab2">
+                    <ul>
+                        <li style="font-weight: bold;">Servicios</li>
+                        <li>Apple Music</li>
+                        <li>Apple TV+</li>
+                        <li>Apple Arcade</li>
+                        <li>iCloud</li>
+                        <li>Apple One</li>
+                        <li>Apple Pay</li>
+                        <li>Apple Books</li>
+                        <li>App Store</li>
+                    </ul> 
+                </div>
+                <div class="tab3">
+                    <ul>
+                        <li style="font-weight: bold;">Cuentas</li>
+                        <li>Gestionar ID de Apple</li>
+                        <li>Cuenta del Apple Store</li>
+                        <li>iCloud.com</li>
+                    </ul> 
+                </div>
+                <div class="tab4">
+                    <ul>
+                        <li style="font-weight: bold;">Apple Store</li>
+                        <li>Encontrar una tienda</li>
+                        <li>Compra online</li>
+                        <li>Genius Bar</li>
+                        <li>Today at Apple</li>
+                        <li>Campamento de Apple</li>
+                        <li>App Apple Store</li>
+                        <li>Reacondicionado</li>
+                        <li>Financiación</li>
+                        <li>Apple Trade In</li>
+                        <li>Estado del pedido</li>
+                        <li>Ayuda para comprar</li>
+                    </ul> 
+                </div>
+                <div class="tab5">
+                    <ul>
+                        <li style="font-weight: bold;">Empresas</li>
+                        <li>Apple y las empresas</li>
+                        <li>Compras de empresa</li>
+                    </ul> 
+                </div>
+                <div class="tab6">
+                    <ul>
+                        <li style="font-weight: bold;">Educación</li>
+                        <li>Apple en la educación</li>
+                        <li>Compras para la universidad</li>
+                    </ul> 
+                </div>
+                <div class="tab7">
+                    <ul>
+                        <li style="font-weight: bold;">Salud</li>
+                        <li>Apple en el sector sanitario</li>
+                        <li>Salud en el Apple Watch</li>
+                    </ul> 
+                </div>
+                <div class="tab8">
+                    <ul>
+                        <li style="font-weight: bold;">Valores de Apple</li>
+                        <li>Encontrar una tienda</li>
+                        <li>Compra online</li>
+                        <li>Genius Bar</li>
+                        <li>Today at Apple</li>
+                        <li>Campamento de Apple</li>
+                        <li>App Apple Store</li>
+                        <li>Reacondicionado</li>
+                        <li>Financiación</li>
+                        <li>Apple Trade In</li>
+                        <li>Estado del pedido</li>
+                        <li>Ayuda para comprar</li>
+                    </ul> 
+                </div>
+            </div>
+        </div>
+    </footer>

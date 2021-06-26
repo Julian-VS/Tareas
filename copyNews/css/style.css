@@ -1,0 +1,245 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400&subset=latin,latin-ext);
+
+body{
+    background-color:rgb(250, 250, 250);
+}
+
+header{
+    padding: 0;
+    margin: auto;
+    max-width:1300px;
+    min-width:800px; 
+}
+
+.container-head{
+    max-width:1300px;
+    min-width:800px;
+    background-color: white;
+    
+}
+
+.container{
+    background-color: white;
+    max-width:1300px;
+    min-width:800px;
+    padding: 15px;
+    
+}
+
+.top-nav-bar    {
+
+    height: 100%;
+    background-color: #f72210;
+    display:flex;
+    justify-content: space-between;
+    align-content: flex-end;
+    margin:auto;
+}
+
+.sub-nav {
+    width:95%;
+    padding: 10px;
+}
+
+.sub-nav a {
+    text-decoration: none;
+    color:black;
+    font-size: 20px;  
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: bold;
+}
+
+.sub-nav2 {
+
+    padding: 5px;
+    
+}
+
+.sub-nav2 a {
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    line-height: 34px;  
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: bold;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.flex-list {
+    position: relative;
+    overflow: hidden;
+    font-size: 10px;
+}
+.flex-list ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -1px;
+}
+.flex-list li a {
+    flex-grow: 1;
+    flex-basis: auto;
+    line-height: 13px;
+    justify-content: center;
+    text-align: center;
+    border-right: 1px solid #ccc;
+    background-color: #fff;
+    margin: auto;
+}
+
+.date {
+    margin-left: 10px;
+    margin-top:55px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 16px;
+    line-height: 34px;
+    font-family: "Roboto Condensed", sans-serif;
+    color: white;
+}
+
+.logo {
+    height:100px;
+    display:flex;
+    justify-content: center;
+}
+
+.logo img{
+    margin-left: 75px;
+    height: 100%;
+}
+
+.nav-bar-buttons a{
+
+   color:white; 
+   font-weight: bold;
+   font-size: 20px;
+   line-height: 34px;
+   font-family: "Roboto Condensed", sans-serif;
+
+}
+
+.nav-bar-buttons {
+
+    display:flex;
+    margin-top:40px;
+
+}
+
+.btn-warning {
+
+    height: 25px;
+    background-color: yellow;
+    margin-top: 5px;
+    padding-bottom: 30px;
+}
+
+.barra-sup
+{
+    margin:0;
+}
+
+.card{
+    border:none;
+    padding: 0;
+}
+
+.card-body{
+    padding: 15px 0px;
+}
+
+.card-title{
+    font-family: "Roboto Condensed",sans-serif;
+    font-size: 23px;
+    line-height: 23px;
+    font-weight: bold;
+}
+.card p{
+    margin:0;
+    color: #333;
+    font-size: 13px;
+    line-height: 18px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.col-title{
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 15px;
+    line-height: 16px;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 11px;
+    color: rgba(3,3,3,.4);
+}
+
+.mini-card-img{
+    width:100%;
+}
+
+.mini-card-title{
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 17px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.mini-card-text{
+    color: #333;
+    font-size: 13px;
+    line-height: 18px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+.thick-sep{
+    
+    margin-top:0;
+
+}
+
+.hex h5 {
+
+    color: rgba(3,3,3,.5);
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.slide{
+
+    border-top:solid lightgray 1px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.slide-title {
+    font-size: 15px;
+    font-family: 'Roboto Condensed';
+    font-weight: bold;
+}
+
+.debate{
+    display:flex;
+    justify-content: center;
+    padding:auto;
+    margin-bottom:15px;
+}
+
+.debate img{
+    width:80%;
+}

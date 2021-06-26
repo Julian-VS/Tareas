@@ -1,0 +1,192 @@
+body {
+    background-color: lightslategray;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+
+.navbar {
+    background-image: url("./img/cake-cover.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 215px;
+}
+
+
+.btn-big {
+
+    display:none;
+
+}
+
+.header-nav{ 
+    display:none;
+}
+
+.nav-text {
+    
+    color:firebrick;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    width: auto;
+    margin-bottom: -20px;
+    
+}
+
+#main-pic-mid, #main-pic-big  {
+    display:none;
+}
+
+
+.container-sm {
+    width:100%;
+    margin-top: 10px;
+    justify-content: center;
+    align-content: center;
+}
+
+.content {
+display:none;
+
+}
+
+.main-pic {
+
+    width: 100%; 
+    margin-bottom: 50px;
+
+}
+
+
+
+.grid img{
+    width:100%;
+    height:90%;
+}
+
+.body-text{
+
+
+    padding: 30px;
+    text-align: justify;
+
+}
+
+@media (min-width: 768px) { 
+
+    .navbar {
+        background-image: url("./img/color-cake.jpg");
+    }
+
+    .nav-text {
+    
+        color:white;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        width: auto;
+        font-size: 30px;
+        margin-left: 40%;
+
+    }
+
+    #main-pic-small {
+        display:none;
+    }
+
+    #main-pic-mid {
+        display:flex;
+    }
+
+}
+
+@media (min-width: 992px) { 
+
+    .container-sm {
+        display:none;
+    }
+    .navbar {
+
+        display:flex;
+        background-image:none;
+        background-color: blanchedalmond;
+        background-size: cover;
+        height:auto;
+        justify-content: space-between;
+    }
+
+    .navbar-dark    {
+        
+        background-color: white;
+
+    }
+
+
+
+    .nav-text {
+    
+        color:cadetblue;    
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        width: 415px;
+        font-size: 30px;
+        margin-left:20%;
+
+    }
+
+    .header-nav {
+
+        display:flex;
+        color: black;
+    }
+
+    .header-nav a {
+        color:black;
+        display:flex;
+        justify-content: flex-end;
+    }
+
+    .list {
+
+        display:flex;
+        width: 400px;
+        justify-content: space-around;
+    }
+
+    #main-pic-small {
+        display:none;
+    }
+
+    #main-pic-mid {
+        display:flex;
+    }
+
+    button {
+        display:none;
+    }
+
+    .btn-big {
+
+        display:inline;
+        font-size: 100px;
+        margin-left: 100px;
+
+    
+    }
+
+    .content {
+        display:contents;
+        
+        }
+
+    .content img {
+        margin-top: 50px;
+        width: 100%;
+        height:80%; 
+    
+    }
+
+}
+
